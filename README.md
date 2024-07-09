@@ -36,4 +36,4 @@ python train_two_record_model.py
 
 消融实验：
 
-[Image](https://github.com/ml-master/LogicMD/blob/main/img/%E5%9B%BE%E7%89%871.png)
+![Image](https://github.com/ml-master/LogicMD/blob/main/img/%E5%9B%BE%E7%89%871.png)
