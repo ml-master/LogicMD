@@ -36,4 +36,10 @@ python train_two_record_model.py
 
 消融实验：
 
-![Image](https://github.com/ml-master/LogicMD/blob/main/img/%E5%9B%BE%E7%89%871.png)
+[Image](https://github.com/ml-master/LogicMD/blob/main/img/%E5%9B%BE%E7%89%871.png)
+
+|       |  Acc | Rumor_R | Rumor_P | Rumor_F | N_Rumor_R | N_Rumor_P | N_Rumor_F |
+|-------|------|---------|---------|---------|-----------|-----------|-----------|
+|  L=1  |0.4892|  0.4494 |  0.3008 |  0.3604 |	 0.5079  |	 0.6621  |	 0.5749  |
+|  L=2  |0.5827|  0.5789 |  0.4198 |  0.4867 |	 0.5847  |	 0.7279  |	 0.6485  |
+|  L=3  |0.5036|  0.5395 |  0.2847 |  0.3727 |	 0.4901  |	 0.7388  |	 0.5893  |
