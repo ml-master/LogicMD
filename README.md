@@ -34,4 +34,6 @@ python train_two_record_model.py
 |-------|------|---------|---------|---------|-----------|-----------|-----------|
 |LogicMD|0.5827|  0.5789 |  0.4198 |  0.4867 |	 0.5847  |	 0.7279  |	 0.6485  |
 
+消融实验：
 
+[Image](https://github.com/ml-master/LogicMD/blob/main/img/%E5%9B%BE%E7%89%871.png)
